@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CCBrenner
-- 👀 I seek to become a full-stack developer and hopefully in some kind of innovative capacity as well.
+- 👀 I seek to become a senior full-stack developer and hopefully in some kind of innovative capacity as well.
 - 🌱 I love to learn new things. I find interactions between things fascinating. I strive to learn everything from a systems perspective and I love to think new thoughts/ideas and do new things.
 - 💞️ I haven't collaborated with many others yet here on GitHub but I would love to collaborate at any time. I would like to gain some experience working together with others and on a team.
 - 📫 To contact me shoot me an email at collynbrenner@gmail.com and I will get back to you soon.
