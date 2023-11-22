@@ -1,4 +1,4 @@
-Welcome to my GH profile! I code mostly with C#, F#, JS, Python and FE languages (& I will learn Rust). I am what they call a "junior" dev. I have worked on many solo projects (see repos below) and I have not worked as a software dev for a job (yet). I have experience writing software documentation. 
+Welcome to my GH profile! I code mostly with C#, F#, JS, Python, HTML & CSS (& I will learn Rust). I am what they call a "junior" dev. I have worked on many solo projects (see repos below) and I have not worked as a software dev for a job (yet). I have experience writing software documentation. I currently work as tech support for a software company in healthcare.
 
 I am excited for the excellent future that awaits us, as we are those who will build the future. It is the dependency of the world on our creations that gives us great influence over the future's direction, and I approach this responsibility with great care and hope.
 
