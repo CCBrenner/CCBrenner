@@ -24,7 +24,7 @@
 - **Desktop Apps:**  
   - wxWidgets (substantial, C/C++)
 
-**Tech I'd like to mess around with more:**
+**Tech I'd like to mess around and find out more about:**
 - Mobile App dev (or more PWA (meaning, RWD))
 - HTMX (or DataStar)
 - GraphQL
