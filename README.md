@@ -1,6 +1,6 @@
 ## Technologist/Full-stack Software Engineer
 
-> *Distributed systems offer the most good to the most people.*
+> *Distributed systems offer the most good to the most people. (consequentialist ethics)* 
 
 **Languages I Work In:**
 - C# (well-versed)
