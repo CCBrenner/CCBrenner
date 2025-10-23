@@ -11,8 +11,8 @@
 - F# (*for learning functional programming*)
  
 **My Experience in Large Codebases:**
-- QuizMachine + QMServer (2 desktop apps, client and server; written in C/C++)
-- BlueSky Medical Staffing Software (SaaS; C#; ASP.NET + .NET (Core))
+- QuizMachine + QMServer (2 desktop apps, client/server | C/C++)
+- BlueSky Medical Staffing Software (SaaS | C# | ASP.NET + .NET (Core))
 
 **Websites I Host:**
 - [TeenBibleQuiz.com](https://teenbiblequiz.com)
