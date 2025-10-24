@@ -1,6 +1,6 @@
 ## Technologist/Full-stack Software Engineer
 
-> *Distributed systems offer the most good to the most people. (consequentialist ethics)* 
+> *I seek to employ technology in ways that provide the ***most good*** to the ***most people***. (consequentialist ethics at its best)* 
 
 **Languages I Work In:**
 - C# (well-versed)
@@ -16,6 +16,9 @@
 
 **Websites I Host:**
 - [TeenBibleQuiz.com](https://teenbiblequiz.com)
+
+**Certifications:**
+- [AWS Certified Cloud Practitioner (*click to view badge*)](https://www.credly.com/badges/ffd32618-4225-4169-8dd2-fb66db08961d/public_url)
 
 **Frameworks I Have Experience With:**
 - **Front-end Web:**  
