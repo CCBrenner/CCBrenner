@@ -21,10 +21,12 @@
 - [AWS Certified Cloud Practitioner (*click to view badge*)](https://www.credly.com/badges/ffd32618-4225-4169-8dd2-fb66db08961d/public_url)
 
 **Frameworks I Have Experience With:**
-- **Front-end Web:**  
-  - NextJS/React (proficient, TS)
-  - Blazor (proficient, C#)
-- **Desktop Apps:**  
+- **Web:**  
+  - NextJS / ReactJS / NodeJS (proficient, TS)
+  - Blazor (Server & WASM) (proficient, C#)
+  - .NET MVC (subtantial, C#)
+  - ASP.NET (substantial, C#)
+- **Desktop:**  
   - wxWidgets (substantial, C/C++)
 
 **Tech I'd like to mess around and find out more about:**
