@@ -28,7 +28,7 @@
   - wxWidgets (substantial, C/C++)
 
 **Tech I'd like to mess around and find out more about:**
-- Mobile App dev (or more PWA (includes RWD))
+- Mobile App dev (or PWA published as mobile app (includes RWD))
 - HTMX (or DataStar)
 - GraphQL
 - Arduino (IoT)
