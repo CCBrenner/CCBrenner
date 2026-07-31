@@ -15,7 +15,9 @@
 - BlueSky Medical Staffing Software (SaaS | C# | ASP.NET + .NET (Core))
 
 **Websites I Host:**
-- [TeenBibleQuiz.com](https://teenbiblequiz.com)
+- [CollynBrenner.com](https://collynbrenner.com) (also can be found at '[dev.](https://dev.collynbrenner.com)' and '[www.](https://www.collynbrenner.com)' subdomains)
+- [TeenBibleQuiz.com](https://teenbiblequiz.com) (also can be found at 'www.' subdomain)
+  - [QViewNG-Demo.TeenBibleQuiz.com](https://QViewNG-Demo.TeenBibleQuiz.com) (also found at [QViewNG-demo.CollynBrenner.com](https://QViewNG-demo.CollynBrenner.com))
 
 **Certifications:**
 - [AWS Certified Cloud Practitioner (*click to view badge*)](https://www.credly.com/badges/ffd32618-4225-4169-8dd2-fb66db08961d/public_url)
