@@ -1,6 +1,6 @@
 ## Technologist/Full-stack Software Engineer
 
-> *I seek to employ technology in ways that provide the ***most good*** to the ***most people***. (consequentialist ethics at its best)* 
+> *I seek to employ technology in ways that provide the ***most good*** to the ***most people***.* 
 
 **Languages I Work In:**
 - C# (well-versed)
